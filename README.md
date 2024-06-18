@@ -1,6 +1,3 @@
-Sure, here is the complete `README.md` content with the deployment and role assignment instructions properly formatted:
-
-```markdown
 # Blockchain-Based Fruit Tree Management System
 
 This repository contains a set of smart contracts developed in Solidity for a blockchain-based fruit tree management system. The system leverages the Ethereum blockchain to manage the lifecycle of fruit trees, including planting, treatment, production, and distribution, while ensuring transparency and traceability.
